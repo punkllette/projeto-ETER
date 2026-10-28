@@ -24,7 +24,7 @@
 .precision-section:after{content:'\00C9TER';position:absolute;right:-.055em;bottom:-.27em;z-index:-1;color:transparent;-webkit-text-stroke:1px rgba(28,28,28,.06);font:500 clamp(150px,28vw,480px)/1 var(--sans);letter-spacing:-.09em;pointer-events:none}
 .precision-orbit{position:absolute;width:min(72vw,1080px);aspect-ratio:1;border-radius:50%;right:-30%;top:12%;z-index:-1;background:radial-gradient(circle at 48% 50%,rgba(215,247,91,.26),rgba(215,247,91,.07) 34%,transparent 68%);filter:blur(4px);animation:precision-drift 14s ease-in-out infinite alternate;pointer-events:none}
 .precision-shell{max-width:1600px;margin:auto;padding:132px 42px 72px}
-.precision-heading{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(260px,.55fr);gap:80px;align-items:end;margin-bottom:72px}
+.precision-heading{display:grid;grid-template-columns:1fr;gap:0;align-items:end;margin-bottom:72px}
 .precision-heading h2{font-size:clamp(54px,6.4vw,102px);line-height:.93;letter-spacing:-.072em;font-weight:500;margin-top:28px;max-width:1000px}
 .precision-heading .text-outline{-webkit-text-stroke:1.3px var(--ink)}
 .precision-heading>p{max-width:330px;font-size:14px;line-height:1.8;color:var(--muted);padding-bottom:8px}
@@ -100,3 +100,13 @@
 @media(max-width:1050px){.finale-shell{grid-template-columns:56px 1fr 330px;padding-inline:28px}.finale-copy{padding-left:0}.finale-copy h2{font-size:clamp(58px,8vw,88px)}.finale-progress{left:28px;right:28px}}
 @media(max-width:767px){.finale-section,.finale-shell{min-height:1050px}.finale-video{object-position:64% center}.finale-shade{background:linear-gradient(180deg,rgba(10,11,9,.72),rgba(10,11,9,.5) 38%,rgba(10,11,9,.91) 76%,#0b0c0a)}.finale-shell{padding:calc(var(--header-height) + 55px) 24px 30px;display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;gap:0}.finale-index{display:none}.finale-copy{margin-top:45px}.finale-copy h2{font-size:clamp(43px,12.4vw,60px);line-height:.91;margin:22px 0 24px}.finale-copy>p{font-size:12px;max-width:345px}.finale-card{align-self:stretch;margin:78px 0 0;padding:20px}.finale-card h3{font-size:30px;margin:28px 0 25px}.finale-progress{left:24px;right:24px;bottom:68px}.finale-meta{margin-top:auto;padding-bottom:0;font-size:6px}.finale-meta span:first-child{display:none}}
 @media(prefers-reduced-motion:reduce){.finale-video{transform:none}.finale-section [data-finale-reveal],.finale-section [data-finale-reveal].active{opacity:1;transform:none;filter:none}.finale-progress i{transform:scaleX(0)!important}.finale-pause{display:none}}
+
+/* Precision continuity / restore the soft green light carried from the hero. */
+.precision-section:before{background:radial-gradient(ellipse 58% 42% at 72% 16%,rgba(215,247,91,.2),transparent 72%),linear-gradient(180deg,rgba(250,250,247,.9),rgba(250,250,247,.78) 36%,rgba(250,250,247,.95))}
+.precision-orbit{background:radial-gradient(circle at 48% 50%,rgba(215,247,91,.42),rgba(215,247,91,.14) 38%,transparent 70%);filter:blur(9px);opacity:.92}
+
+/* Stroke lab / keep the manifesto on the same reading rail as its intro. */
+.lab-heading>p{justify-self:start}
+.lab-story{min-width:0}
+@media(max-width:1400px){.lab-heading{grid-template-columns:1fr;gap:30px}.lab-heading>p{max-width:520px;padding-bottom:0}.lab-layout{grid-template-columns:minmax(0,1fr)}.lab-story{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1.18fr);gap:clamp(34px,5vw,72px)}.lab-principles{margin-top:0}}
+@media(max-width:767px){.lab-story{display:block}.lab-principles{margin-top:45px}}
