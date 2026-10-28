@@ -1,0 +1,948 @@
+{
+  "desktop": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0,
+    "target": 0,
+    "drawn": 0,
+    "count": 192,
+    "variant": "desktop",
+    "cacheFrames": 13,
+    "cacheBytes": 47923200,
+    "cacheLimit": 27,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      1280,
+      808
+    ],
+    "stageHeight": 900,
+    "metrics": {
+      "requests": 13,
+      "failures": 0,
+      "draws": 4,
+      "peakCacheBytes": 47923200,
+      "peakRequests": 4
+    },
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "heroHeight": 2700,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 531.609375,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 402.28125,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 397.40625,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": false,
+        "opacity": "1"
+      },
+      {
+        "inert": false,
+        "opacity": "1"
+      }
+    ]
+  },
+  "scroll": [
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0.05,
+      "target": 10,
+      "drawn": 10,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 23,
+      "cacheBytes": 84787200,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 23,
+        "failures": 0,
+        "draws": 8,
+        "peakCacheBytes": 84787200,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.98440551757812,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": false,
+          "opacity": "0.972"
+        },
+        {
+          "inert": false,
+          "opacity": "0.972"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0.1,
+      "target": 19,
+      "drawn": 19,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 32,
+        "failures": 0,
+        "draws": 11,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.98435974121094,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": false,
+          "opacity": "0.694"
+        },
+        {
+          "inert": false,
+          "opacity": "0.694"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0.225,
+      "target": 43,
+      "drawn": 43,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 56,
+        "failures": 0,
+        "draws": 18,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": true,
+          "opacity": "0"
+        },
+        {
+          "inert": true,
+          "opacity": "0"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0.5,
+      "target": 96,
+      "drawn": 96,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 81,
+        "failures": 0,
+        "draws": 25,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": true,
+          "opacity": "0"
+        },
+        {
+          "inert": true,
+          "opacity": "0"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 1,
+      "target": 191,
+      "drawn": 191,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 94,
+        "failures": 0,
+        "draws": 29,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": true,
+          "opacity": "0"
+        },
+        {
+          "inert": true,
+          "opacity": "0"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0.5,
+      "target": 96,
+      "drawn": 96,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 105,
+        "failures": 0,
+        "draws": 32,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": true,
+          "opacity": "0"
+        },
+        {
+          "inert": true,
+          "opacity": "0"
+        }
+      ]
+    },
+    {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0,
+      "target": 0,
+      "drawn": 0,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 27,
+      "cacheBytes": 99532800,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        1280,
+        808
+      ],
+      "stageHeight": 900,
+      "metrics": {
+        "requests": 118,
+        "failures": 0,
+        "draws": 36,
+        "peakCacheBytes": 99532800,
+        "peakRequests": 4
+      },
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "heroHeight": 2700,
+      "stageTop": 0,
+      "lines": [
+        {
+          "w": 531.609375,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 402.28125,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        },
+        {
+          "w": 397.40625,
+          "h": 82.984375,
+          "lineHeight": "82.9872px"
+        }
+      ],
+      "ctas": [
+        {
+          "inert": false,
+          "opacity": "1"
+        },
+        {
+          "inert": false,
+          "opacity": "1"
+        }
+      ]
+    }
+  ],
+  "dialogOpen": true,
+  "dialogClose": true,
+  "focusReturn": true,
+  "restored": {
+    "state": {
+      "staticMode": false,
+      "reason": "",
+      "progress": 0,
+      "target": 0,
+      "drawn": -1,
+      "count": 192,
+      "variant": "desktop",
+      "cacheFrames": 0,
+      "cacheBytes": 0,
+      "cacheLimit": 27,
+      "activeRequests": 0,
+      "pendingFrames": [],
+      "queuedFrames": [],
+      "canvas": [
+        300,
+        150
+      ],
+      "stageHeight": 1,
+      "metrics": {
+        "requests": 0,
+        "failures": 0,
+        "draws": 0,
+        "peakCacheBytes": 0,
+        "peakRequests": 0
+      }
+    },
+    "introSkipped": true
+  },
+  "mobile": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0,
+    "target": 0,
+    "drawn": 0,
+    "count": 192,
+    "variant": "mobile",
+    "cacheFrames": 15,
+    "cacheBytes": 19906560,
+    "cacheLimit": 37,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      375,
+      844
+    ],
+    "stageHeight": 844,
+    "metrics": {
+      "requests": 27,
+      "failures": 0,
+      "draws": 3,
+      "peakCacheBytes": 19906560,
+      "peakRequests": 4
+    },
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "heroHeight": 2532,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 235.234375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 178,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 175.84375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": false,
+        "opacity": "1"
+      },
+      {
+        "inert": false,
+        "opacity": "1"
+      }
+    ]
+  },
+  "mobileMid": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0.5,
+    "target": 96,
+    "drawn": 96,
+    "count": 192,
+    "variant": "mobile",
+    "cacheFrames": 37,
+    "cacheBytes": 49102848,
+    "cacheLimit": 37,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      375,
+      844
+    ],
+    "stageHeight": 844,
+    "metrics": {
+      "requests": 56,
+      "failures": 0,
+      "draws": 8,
+      "peakCacheBytes": 49102848,
+      "peakRequests": 4
+    },
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "heroHeight": 2532,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 235.234375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 178,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 175.84375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": true,
+        "opacity": "0"
+      },
+      {
+        "inert": true,
+        "opacity": "0"
+      }
+    ]
+  },
+  "orientation": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0.6205882352941177,
+    "target": 119,
+    "drawn": 119,
+    "count": 192,
+    "variant": "desktop",
+    "cacheFrames": 24,
+    "cacheBytes": 88473600,
+    "cacheLimit": 27,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      829,
+      680
+    ],
+    "stageHeight": 680,
+    "metrics": {
+      "requests": 81,
+      "failures": 1,
+      "draws": 14,
+      "peakCacheBytes": 88473600,
+      "peakRequests": 4
+    },
+    "width": 844,
+    "height": 390,
+    "overflow": false,
+    "heroHeight": 2040,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 352.84375,
+        "h": 55.078125,
+        "lineHeight": "55.08px"
+      },
+      {
+        "w": 267,
+        "h": 55.078125,
+        "lineHeight": "55.08px"
+      },
+      {
+        "w": 263.765625,
+        "h": 55.078125,
+        "lineHeight": "55.08px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": true,
+        "opacity": "0"
+      },
+      {
+        "inert": true,
+        "opacity": "0"
+      }
+    ]
+  },
+  "small": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0,
+    "target": 0,
+    "drawn": 0,
+    "count": 192,
+    "variant": "mobile",
+    "cacheFrames": 22,
+    "cacheBytes": 29196288,
+    "cacheLimit": 37,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      305,
+      740
+    ],
+    "stageHeight": 740,
+    "metrics": {
+      "requests": 107,
+      "failures": 1,
+      "draws": 17,
+      "peakCacheBytes": 88473600,
+      "peakRequests": 4
+    },
+    "width": 320,
+    "height": 740,
+    "overflow": false,
+    "heroHeight": 2220,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 235.234375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 178,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 175.84375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": false,
+        "opacity": "1"
+      },
+      {
+        "inert": false,
+        "opacity": "1"
+      }
+    ]
+  },
+  "reduced": {
+    "staticMode": true,
+    "reason": "Movimento reduzido.",
+    "progress": 0,
+    "target": 0,
+    "drawn": -1,
+    "count": 192,
+    "variant": "mobile",
+    "cacheFrames": 0,
+    "cacheBytes": 0,
+    "cacheLimit": 37,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      305,
+      760
+    ],
+    "stageHeight": 760,
+    "metrics": {
+      "requests": 107,
+      "failures": 1,
+      "draws": 17,
+      "peakCacheBytes": 88473600,
+      "peakRequests": 4
+    },
+    "width": 320,
+    "height": 740,
+    "overflow": false,
+    "heroHeight": 760,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 235.234375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 178,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      },
+      {
+        "w": 175.84375,
+        "h": 37.796875,
+        "lineHeight": "37.8px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": false,
+        "opacity": "1"
+      },
+      {
+        "inert": false,
+        "opacity": "1"
+      }
+    ]
+  },
+  "slowAndMissingFrame": {
+    "staticMode": false,
+    "reason": "",
+    "progress": 0.5027777777777778,
+    "target": 96,
+    "drawn": 95,
+    "count": 192,
+    "variant": "desktop",
+    "cacheFrames": 8,
+    "cacheBytes": 29491200,
+    "cacheLimit": 27,
+    "activeRequests": 4,
+    "pendingFrames": [
+      101,
+      91,
+      102,
+      90
+    ],
+    "queuedFrames": [
+      103,
+      89,
+      104,
+      88,
+      105,
+      87,
+      106,
+      86,
+      107,
+      85,
+      108,
+      84
+    ],
+    "canvas": [
+      1280,
+      808
+    ],
+    "stageHeight": 900,
+    "metrics": {
+      "requests": 17,
+      "failures": 1,
+      "draws": 7,
+      "peakCacheBytes": 29491200,
+      "peakRequests": 4
+    },
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "heroHeight": 2700,
+    "stageTop": 0,
+    "lines": [
+      {
+        "w": 531.609375,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 402.28125,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 397.40625,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": true,
+        "opacity": "0"
+      },
+      {
+        "inert": true,
+        "opacity": "0"
+      }
+    ]
+  },
+  "allFramesFailed": {
+    "staticMode": true,
+    "reason": "Sequência indisponível. Imagem estática.",
+    "progress": 0.05333333333333334,
+    "target": 0,
+    "drawn": -1,
+    "count": 192,
+    "variant": "desktop",
+    "cacheFrames": 0,
+    "cacheBytes": 0,
+    "cacheLimit": 27,
+    "activeRequests": 0,
+    "pendingFrames": [],
+    "queuedFrames": [],
+    "canvas": [
+      1280,
+      808
+    ],
+    "stageHeight": 900,
+    "metrics": {
+      "requests": 9,
+      "failures": 6,
+      "draws": 0,
+      "peakCacheBytes": 0,
+      "peakRequests": 4
+    },
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "heroHeight": 900,
+    "stageTop": -96,
+    "lines": [
+      {
+        "w": 531.609375,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 402.28125,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      },
+      {
+        "w": 397.40625,
+        "h": 82.984375,
+        "lineHeight": "82.9872px"
+      }
+    ],
+    "ctas": [
+      {
+        "inert": false,
+        "opacity": "1"
+      },
+      {
+        "inert": false,
+        "opacity": "1"
+      }
+    ]
+  },
+  "noJS": {
+    "heroHeight": 900,
+    "stageHeight": 900,
+    "posterLoaded": true,
+    "textOpacity": "1",
+    "overflow": false,
+    "h1Count": 1
+  }
+}
